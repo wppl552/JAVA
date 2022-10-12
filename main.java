@@ -1,5 +1,6 @@
 import java.utils.*
 
+
 public main{
 
     public static void main(String[] args)
@@ -10,4 +11,6 @@ public main{
         System.out.println(x);
         
     }
-}
+
+
+// This code has been contributed by Mayank Jaiswal
