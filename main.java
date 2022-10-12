@@ -7,6 +7,7 @@ public main{
         Scanner in = new Scanner(System.in);
         
         int x = in.nextInt();
+        System.out.println(x);
         
     }
 }
